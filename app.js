@@ -1,0 +1,2 @@
+const secondHand = document.getElementById('second-hand').style.transform = `rotate(${seconds * 6}deg)`;
+const minutesHand = document.getElementById('minutes-hand').style.transform = `rotate(${seconds * 6}deg)`;

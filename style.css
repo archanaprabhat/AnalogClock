@@ -33,3 +33,22 @@ body {
     bottom: 149px;
     
 }
+
+#hours-hand {
+    height: 80px;
+    width: 4px;
+    background-color: rgb(205, 112, 255);
+    position: absolute;
+    left: 148px; 
+    bottom: 148px;
+}
+
+#center {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(252, 255, 55);
+    position: absolute;
+    left: 145px; 
+    bottom: 145px;
+    border-radius: 5px;
+}
