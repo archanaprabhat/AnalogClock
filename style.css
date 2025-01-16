@@ -19,6 +19,17 @@ body {
     height: 130px;
     width: 2px;
     background-color: rgb(70, 255, 255 );
-    left: 149px;
+    left: 149px; 
     bottom: 149px;
+    opacity: 50%;
+}
+
+#minutes-hand {
+    height: 100px;
+    width: 2px;
+    background-color: rgb(253, 120, 227);
+    position: absolute;
+    left: 149px; 
+    bottom: 149px;
+    
 }
